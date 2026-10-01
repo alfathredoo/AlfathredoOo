@@ -7,5 +7,5 @@ Mahasiswa Teknik Telekomunikasi di Telkom University | IoT & Antenna Systems Ent
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Kontak
-- Instagram: https://www.instagram.com/alfathredoo
+- Instagram: [Alfathredoo](https://www.instagram.com/alfathredoo)
 - LinkedIn: [Alfathredo Berlyn S.](https://www.linkedin.com/in/alfathredo-berlyn-s-197368434/)
