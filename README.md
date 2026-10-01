@@ -1,11 +1,16 @@
-### Hai My Name Alfathredo Berlyn S. 👋
+# Hai, My Name Alfathredo Berlyn S. 👋
 
-Mahasiswa Teknik Telekomunikasi di Telkom University | IoT & Antenna Systems Enthusiast | Aspiring Network Engineer
+Web Developer yang suka belajar banyak hal.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📫 Kontak
-- Instagram: [@alfathredoo](https://www.instagram.com/alfathredoo)
-- LinkedIn: [Alfathredo Berlyn S.](https://www.linkedin.com/in/alfathredo-berlyn-s-197368434/)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+## 📫 Kontak
+- LinkedIn: [nama-anda](https://linkedin.com/in/nama-anda)
+- Email: email@anda.com
