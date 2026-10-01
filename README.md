@@ -1,4 +1,4 @@
-# Hai, saya Alfathredo Berlyn S. 👋
+### Hai, saya Alfathredo Berlyn S. 👋
 
 Mahasiswa Teknik Telekomunikasi di Telkom University | IoT & Antenna Systems Enthusiast | Aspiring Network Engineer
 
