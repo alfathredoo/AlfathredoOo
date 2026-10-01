@@ -12,5 +12,5 @@ Web Developer yang suka belajar banyak hal.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 ## 📫 Kontak
-- LinkedIn: [Alfathredo Berlyn S.](https://www.linkedin.com/in/alfathredo-berlyn-s-197368434/))
+- LinkedIn: [Alfathredo Berlyn S.](https://www.linkedin.com/in/alfathredo-berlyn-s-197368434/)
 - Email: alfathredosyahputra@gmail.com
